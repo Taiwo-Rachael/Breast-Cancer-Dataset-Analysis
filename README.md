@@ -17,8 +17,10 @@ The EDA process showed a strong relationship between the area mean and radius me
 
 In order to get the data ready for modeling I used the StandardScaler to standardize the data and also carried out categorical encoding, using the Label Encoder to transform the diagnosis column.
 
-# Model Selection
+# Model Selection and Training
 
 I trained a model to classify the cancer tumours into Malignant and Benign using a range of classification algorithms. The RandomForestClassifier was the best performing model with an accuracy of 96% and recall percentage of 99% for Benign cells and 93% for Malignant cells.
 
+# 💡 Conclusion
+The insights and model developed in this project can help to increase the survival chances of cancer patients as accurately classifying their cancer tumors can help patients to get the appropriate treatment required to tackle their cases and prevent unnecessary treatment as the case may be
 
