@@ -2,7 +2,7 @@
 
 # 📊 📈 📉 Introduction
 
-Breast cancer is one of the most prevalent cancers affecting women worldwide. Early detection and accurate diagnosis are crucial for effective treatment and improved patient outcomes.This project shows the analysis of a breast cancer dataset which was sourced from kaggle, drawing insights from the morphological characteristics of the cells and their implication on the growth behaviour. 
+Breast cancer is one of the most prevalent cancers affecting women worldwide. Early detection and accurate diagnosis are crucial for effective treatment and improved patient outcomes. This project shows the analysis of a breast cancer dataset which was sourced from kaggle, drawing insights from the morphological characteristics of the cells and their implication on the growth behaviour. This project also involved training a Machine Learning model to classify cancer cells in patients into Malignant and Benign. Correctly classifying cancer cells 
 
 # Data Cleaning
 
