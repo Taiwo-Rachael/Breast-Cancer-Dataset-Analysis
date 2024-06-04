@@ -12,7 +12,7 @@ The dataset was relatively clean, containing no null values and no duplicated en
 
 The EDA process showed a strong relationship between the area mean and radius mean of the cancer cells, as well as a strong relationship between the perimeter mean and radius mean of the cells. Malignant cancer cells were also found to have much higher area and radius mean than Benign cells
 
-# Modeling
+# 🤖 Modeling
 # Feature Scaling and Categorical Encoding
 
 In order to get the data ready for modeling I used the StandardScaler to standardize the necessary columns, reducing them to a scale between 0 and 1 and also carried out categorical encoding, using the Label Encoder to transform the diagnosis column.
